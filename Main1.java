@@ -27,6 +27,7 @@ public class Main1 {
             factorial *= i;
         }
         System.out.println("Факториал " + n + "! = " + factorial);
+        sc.close();
 }
 }
 
