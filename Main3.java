@@ -36,6 +36,7 @@ public class Main3 {
                 break;
             default:
                 System.out.println("Ошибка: некорректный знак операции.");
+                sc.close();
         }
     }
     
