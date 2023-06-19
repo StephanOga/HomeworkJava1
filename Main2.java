@@ -1,5 +1,5 @@
 public class Main2 {
-    public static void main2(String[] args){
+    public static void main(String[] args){
         boolean[] isPrime = new boolean[1001];
         for (int i = 2; i <= 1000; i++) {
             isPrime[i] = true;
